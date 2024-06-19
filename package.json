@@ -1,0 +1,14 @@
+{
+  "name": "trulioo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -c-1 ."
+  },
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
